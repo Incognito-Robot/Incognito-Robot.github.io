@@ -164,7 +164,7 @@ sub {
 }
 
 sup {
-  top: -.5em;
+  top: -.2em;
 }
 
 a {
@@ -197,7 +197,7 @@ code,
 kbd,
 samp {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  font-size: 1em;
+  font-size: 2em;
 }
 
 pre {
