@@ -25,7 +25,7 @@
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: #1abc9c;
-  --secondary: #2c3e50;
+  --secondary: #FFFFF0;
   --success: #28a745;
   --info: #17a2b8;
   --warning: #ffc107;
@@ -33,10 +33,15 @@
   --light: #f8f9fa;
   --dark: #343a40;
   --breakpoint-xs: 0;
-  --breakpoint-sm: 576px;
+  --breakpoint-sm: 506px;
   --breakpoint-md: 768px;
+<<<<<<< HEAD
   --breakpoint-lg: 800px;
   --breakpoint-xl: 1200px;
+=======
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1020px;
+>>>>>>> WALL-E
   --font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
@@ -64,8 +69,13 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
+<<<<<<< HEAD
   color: #212529;
   text-align: right;
+=======
+  color: #242921;
+  text-align: left;
+>>>>>>> WALL-E
   background-color: #fff;
 }
 
@@ -121,7 +131,7 @@ ul ol {
 }
 
 dt {
-  font-weight: 700;
+  font-weight: 800;
 }
 
 dd {
