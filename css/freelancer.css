@@ -64,8 +64,13 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
+<<<<<<< HEAD
   color: #212529;
+  text-align: right;
+=======
+  color: #242921;
   text-align: left;
+>>>>>>> Branche2
   background-color: #fff;
 }
 
