@@ -64,9 +64,14 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
+<<<<<<< HEAD
+  color: #212529;
+  text-align: right;
+=======
   color: #242921;
   text-align: left;
-  background-color: #fff;
+>>>>>>> Branche2
+  background-color: #ffffff;
 }
 
 [tabindex="-1"]:focus {
@@ -85,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  margin-top: 0;
+  margin-top: 10;
   margin-bottom: 1rem;
 }
 
