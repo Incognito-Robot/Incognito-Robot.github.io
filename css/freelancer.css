@@ -34,12 +34,18 @@
   --dark: #343a40;
   --breakpoint-xs: 0;
 <<<<<<< HEAD
+<<<<<<< HEAD
   --breakpoint-sm: 506px;
 =======
   --breakpoint-sm: 526px;
 >>>>>>> Branche1
   --breakpoint-md: 768px;
   --breakpoint-lg: 900px;
+=======
+  --breakpoint-sm: 526px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 880px;
+>>>>>>> blabla
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -154,7 +160,7 @@ small {
 sub,
 sup {
   position: relative;
-  font-size: 75%;
+  font-size: 80%;
   line-height: 0;
   vertical-align: baseline;
 }
@@ -207,7 +213,7 @@ pre {
 }
 
 figure {
-  margin: 0 0 1rem;
+  margin: 1 0 1rem;
 }
 
 img {
@@ -225,7 +231,7 @@ table {
 }
 
 caption {
-  padding-top: 0.75rem;
+  padding-top: 0.85rem;
   padding-bottom: 0.75rem;
   color: #6c757d;
   text-align: left;
@@ -238,7 +244,7 @@ th {
 
 label {
   display: inline-block;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.7rem;
 }
 
 button {
