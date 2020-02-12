@@ -25,7 +25,7 @@
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: #1abc9c;
-  --secondary: #2c3e50;
+  --secondary: #FFFFF0;
   --success: #28a745;
   --info: #17a2b8;
   --warning: #ffc107;
@@ -33,9 +33,13 @@
   --light: #f8f9fa;
   --dark: #343a40;
   --breakpoint-xs: 0;
-  --breakpoint-sm: 576px;
+<<<<<<< HEAD
+  --breakpoint-sm: 506px;
+=======
+  --breakpoint-sm: 526px;
+>>>>>>> Branche1
   --breakpoint-md: 768px;
-  --breakpoint-lg: 992px;
+  --breakpoint-lg: 900px;
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -59,14 +63,19 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 }
 
 body {
-  margin: 0;
+  margin: 10;
   font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
+<<<<<<< HEAD
   color: #212529;
+  text-align: right;
+=======
+  color: #242921;
   text-align: left;
-  background-color: #fff;
+>>>>>>> Branche2
+  background-color: #ffffff;
 }
 
 [tabindex="-1"]:focus {
@@ -85,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  margin-top: 0;
+  margin-top: 10;
   margin-bottom: 1rem;
 }
 
@@ -121,7 +130,7 @@ ul ol {
 }
 
 dt {
-  font-weight: 700;
+  font-weight: 800;
 }
 
 dd {
@@ -155,11 +164,11 @@ sub {
 }
 
 sup {
-  top: -.5em;
+  top: -.2em;
 }
 
 a {
-  color: #1abc9c;
+  color: #1abc2c;
   text-decoration: none;
   background-color: transparent;
 }
